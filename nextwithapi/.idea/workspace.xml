@@ -4,48 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc1dbf02-07cb-4217-a20b-65be80d22b0d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../firstnextjs/.idea/firstnextjs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/nextwithapi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/next.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vercel.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/api/config/limiter.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/api/echo/route.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/api/hello/route.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/api/todos/[id]/route.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/api/todos/route.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middleware.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/types.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blognext/app/components/MyProfilePic.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../blognext/app/components/MyProfilePic.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blognext/app/components/Post.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../blognext/app/components/Post.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blognext/app/post/[postId]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../blognext/app/post/[postId]/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blognext/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../blognext/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blognext/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../blognext/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../firstnextjs/src/app/about/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../firstnextjs/src/app/about/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../firstnextjs/src/app/about/loading.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../firstnextjs/src/app/about/loading.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wikkirocket/app/[searchTerm]/components/Item.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../wikkirocket/app/[searchTerm]/components/Item.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wikkirocket/app/[searchTerm]/loading.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../wikkirocket/app/[searchTerm]/loading.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wikkirocket/app/[searchTerm]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../wikkirocket/app/[searchTerm]/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wikkirocket/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/../wikkirocket/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wikkirocket/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../wikkirocket/app/layout.tsx" afterDir="false" />
+    <list default="true" id="fc90d904-2228-497a-a6f8-47224fe947eb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/api/config/limiter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/api/config/limiter.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/api/hello/route.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/api/hello/route.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middleware.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/middleware.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,10 +20,10 @@
     <bower-package value="" />
     <bower.json value="" />
   </component>
-  <component name="ProjectId" id="2RKhhGjK5ykPsfCyD6xEFih8g9G" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
+  <component name="ProjectId" id="2RLR839Gel5s6nTaqhR4xLbGvfY" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="flattenPackages" value="true" />
@@ -68,51 +32,39 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;pnpm&quot;,
-    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;C:\\Users\\Administrator\\AppData\\Roaming\\npm\\node_modules\\prettier&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;D:\\Projects\\learnnext\\nextwithapi\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
-  },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;DotEnv&quot;
-    ]
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "pnpm",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\Administrator\\AppData\\Roaming\\npm\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "ts.external.directory.path": "D:\\Projects\\learnnext\\nextwithapi\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cc1dbf02-07cb-4217-a20b-65be80d22b0d" name="Changes" comment="" />
+      <changelist id="fc90d904-2228-497a-a6f8-47224fe947eb" name="Changes" comment="" />
       <created>1686993030991</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686993030991</updated>
-      <workItem from="1687004800015" duration="269000" />
-      <workItem from="1687005266937" duration="139000" />
-      <workItem from="1687010195952" duration="5647000" />
-      <workItem from="1687022401916" duration="1114000" />
+      <workItem from="1687027215198" duration="1392000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
