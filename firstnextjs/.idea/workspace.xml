@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49d09a86-b69d-479c-a216-23f01f65274b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../nextwithapi/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextwithapi/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextwithapi/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextwithapi/next.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextwithapi/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextwithapi/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextwithapi/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextwithapi/public/next.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextwithapi/public/vercel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextwithapi/src/app/api/echo/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextwithapi/src/app/api/hello/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextwithapi/src/app/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextwithapi/src/app/globals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextwithapi/src/app/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextwithapi/src/app/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextwithapi/tailwind.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextwithapi/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blognext/app/components/MyProfilePic.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../blognext/app/components/MyProfilePic.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blognext/app/components/Post.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../blognext/app/components/Post.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blognext/app/post/[postId]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../blognext/app/post/[postId]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blognext/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../blognext/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blognext/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../blognext/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/about/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/about/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/about/loading.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/about/loading.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikkirocket/app/[searchTerm]/components/Item.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../wikkirocket/app/[searchTerm]/components/Item.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikkirocket/app/[searchTerm]/loading.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../wikkirocket/app/[searchTerm]/loading.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikkirocket/app/[searchTerm]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../wikkirocket/app/[searchTerm]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikkirocket/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/../wikkirocket/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wikkirocket/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../wikkirocket/app/layout.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JsBowerSettings">
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="ProjectId" id="2RKh5fqAtPvgRh7jd0CZa3bFbpZ" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "pnpm",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\Administrator\\AppData\\Roaming\\npm\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "settings.javascript.linters.tslint",
+    "ts.external.directory.path": "D:\\Projects\\learnnext\\firstnextjs\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49d09a86-b69d-479c-a216-23f01f65274b" name="Changes" comment="" />
+      <created>1686993030991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686993030991</updated>
+      <workItem from="1687004502176" duration="66000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

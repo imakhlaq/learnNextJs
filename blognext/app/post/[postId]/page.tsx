@@ -20,6 +20,15 @@ export const generateMetadata = async ({ params: { postId } }: Props) => {
   };
 };
 
+//for ssg predicting and rendering all pages
+export function getStaticParams({ params: { postId } }: Props) {
+  const posts = getSortedPostData();
+
+  return posts.map((post) => {
+    return { postId: post.id };
+  });
+}
+
 const page = async ({ params: { postId } }: Props) => {
   const posts = getSortedPostData(); // deduped req data where you need so this will be one req even we are sending 2 (one in main page one here)
 
@@ -46,11 +55,3 @@ const page = async ({ params: { postId } }: Props) => {
   );
 };
 export default page;
-
-export const getStaticParams = ({ params: { postId } }: Props) => {
-  const posts = getSortedPostData();
-
-  return posts.map((post) => {
-    postId: post.id;
-  });
-};
